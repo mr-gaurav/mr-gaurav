@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mr-gaurav (a VLSI Enthusiast)
-- 👀 I’m interested in RTL design and Verification.
+- 👀 I’m interested in Design and Verification.
 - 🌱 I’m currently pursuing M.Tech in Signal Processing Specification, ECE department at NIT Allahabad.
 - 💞️ I’m looking to collaborate on vlsi projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/mr-gaurav/
